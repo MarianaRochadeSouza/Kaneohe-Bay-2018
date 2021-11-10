@@ -6,9 +6,8 @@ This repository contains code to accompany the manuscript titled:
 by **Mariana Rocha de Souza, Carlo Caruso, Lupita R. Jones, Crawford Dury, Ruth Gates, Robert J.Toonen**
 
 **Repository contents:**
+Contains environmental data and Symbiodiniaceae high-throughput sequencing of the internal transcribed spacer region (ITS2) data used in this study and the R scripts used in the analysis and figures. 
 
-**Data:** 
-Contains environmental data and Symbiodiniaceae high-throughput sequencing of the internal transcribed spacer region (ITS2) data used in this study. 
 * *Symbiodiniaceae data*:
      * Symportal_abso: Symbiodiniaceae absolute number of reads
      * Symportal_relat: Symbiodiniaceae sequences relative number of reads
