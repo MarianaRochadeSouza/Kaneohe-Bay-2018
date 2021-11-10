@@ -3,7 +3,7 @@ This repository contains code to accompany the manuscript titled:
 
 ###**Community composition of coral-associated Symbiodiniaceae is driven by fine-scale environmental gradients**
 
-by **Mariana Rocha de Souza, Carlo Caruso, Lupita R. Jones, Crawford Dury, Ruth Gates, Robert J.Toonen**
+by **Mariana Rocha de Souza, Carlo Caruso, Lupita R. Jones, Crawford Dury, Ruth Gates, Robert J. Toonen**
 
 **Repository contents:**
 Contains environmental data and Symbiodiniaceae high-throughput sequencing of the internal transcribed spacer region (ITS2) data used in this study and the R scripts used in the analysis and figures. 
@@ -27,7 +27,7 @@ Contains environmental data and Symbiodiniaceae high-throughput sequencing of th
 
 * *Rscripts:
      * Sym_KaneoheBay2018: R script for most analysis and figures used in the manuscript
-     * Innis(2018)comparison: R script for analysis and visualizaion of proportion of Durusdinium in Innis et al (2018)
+     * Innis(2018)comparison: R script for analysis and visualization of proportion of Durusdinium in Innis et al (2018)
      
 
 
