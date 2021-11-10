@@ -20,13 +20,14 @@ Contains environmental data and Symbiodiniaceae high-throughput sequencing of th
      * PermanovaR2: table with results from permanova used in the heatmap
      
 * *Innis comparison*: collection data and qPCR data from Innis et al (2018) used in Figure 2 Supplemental material. 
-     * Data*: 
+     * Data: 
         * qPCR_data: qPCR data for sample colonies organized by plate. 
         * Coral_collection: Metadata for all collected coral samples.
-     * Map*: files used in the Kaneohe Bay map.
+     * Map: files used in the Kaneohe Bay map.
 
-* *Rscripts*:
-     * 
+* *Rscripts:
+     * Sym_KaneoheBay2018: R script for most analysis and figures used in the manuscript
+     * Innis(2018)comparison: R script for analysis and visualizaion of proportion of Durusdinium in Innis et al (2018)
      
 
 
