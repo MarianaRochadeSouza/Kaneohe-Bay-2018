@@ -1,7 +1,7 @@
 # Kaneohe-Bay-2018
 This repository contains code to accompany the manuscript titled:
 
-###**Community composition of coral-associated Symbiodiniaceae is driven by fine-scale environmental gradients**
+### **Community composition of coral-associated Symbiodiniaceae is driven by fine-scale environmental gradients**
 
 by **Mariana Rocha de Souza, Carlo Caruso, Lupita R. Jones, Crawford Dury, Ruth Gates, Robert J. Toonen**
 
