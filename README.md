@@ -21,9 +21,9 @@ Contains environmental data and Symbiodiniaceae high-throughput sequencing of th
      
 * *Innis comparison*: collection data and qPCR data from Innis et al (2018) used in Figure 2 Supplemental material. 
      * Data: 
-        * qPCR_data: qPCR data for sample colonies organized by plate. 
-        * Coral_collection: Metadata for all collected coral samples.
-     * Map: files used in the Kaneohe Bay map.
+        * qPCR_data: qPCR data for sample colonies organized by plate
+        * Coral_collection: Metadata for all collected coral samples
+     * Map: files used in the Kaneohe Bay map
 
 * *Rscripts:
      * Sym_KaneoheBay2018: R script for most analysis and figures used in the manuscript
