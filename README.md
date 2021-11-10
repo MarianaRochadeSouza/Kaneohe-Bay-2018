@@ -9,7 +9,7 @@ by **Mariana Rocha de Souza, Carlo Caruso, Lupita R. Jones, Crawford Dury, Ruth 
 Contains environmental data and Symbiodiniaceae high-throughput sequencing of the internal transcribed spacer region (ITS2) data used in this study and the R scripts used in the analysis and figures. 
 
 * *Symbiodiniaceae data*:
-     * Symportal_abso: Symbiodiniaceae absolute number of reads
+     * Symportal_abso: Symbiodiniaceae sequences absolute number of reads
      * Symportal_relat: Symbiodiniaceae sequences relative number of reads
      * Symportal_absol: Symbiodiniaceae profiles absolute number of reads
      
@@ -20,6 +20,14 @@ Contains environmental data and Symbiodiniaceae high-throughput sequencing of th
      * PermanovaR2: table with results from permanova used in the heatmap
      
 * *Innis comparison*: collection data and qPCR data from Innis et al (2018) used in Figure 2 Supplemental material. 
+     * Data*: 
+        * qPCR_data: qPCR data for sample colonies organized by plate. 
+        * Coral_collection: Metadata for all collected coral samples.
+     * Map*: files used in the Kaneohe Bay map.
+
+* *Rscripts*:
+     * 
+     
 
 
 
