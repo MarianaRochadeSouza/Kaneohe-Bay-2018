@@ -26,7 +26,7 @@ Contains environmental data and Symbiodiniaceae high-throughput sequencing of th
      * Map: files used in the Kaneohe Bay map
 
 * *Rscripts:
-     * Sym_KaneoheBay2018: R script for most analysis and figures used in the manuscript
+     * Sym_KaneoheBay2018: R script for analysis and figures used in the manuscript
      * Innis(2018)comparison: R script for analysis and visualization of proportion of Durusdinium in Innis et al (2018)
      
 
