@@ -7,7 +7,8 @@ by **Mariana Rocha de Souza, Carlo Caruso, Lupita R. Jones, Crawford Dury, Ruth 
 
 **Repository contents:**
 
-**Data/:** Contains field collection data and qPCR data used in this study. Also contains NOAA daily tide data used in analysis. Sub-folders are as follows:
+**Data/:** 
+Contains environmental data and Symbiodiniaceae high-throughput sequencing of the internal transcribed spacer region (ITS2) data used in this study. 
 * *Collection Data/*:
      * Coral_Collection.csv: Metadata for all collected coral samples, including: date and time collected, colony tag number, depth, latitude, longitude, reef ID, reef type (patch vs. fringe), and reef area (top vs. slope)
      * Color_Scores.csv: Color assignment of each sampled coral colony from each of 5 independent observers based on photographs
